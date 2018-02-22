@@ -1,7 +1,7 @@
-# sitecore9_helix
-Sitecore Sample Project.
+# Sitecore Sample Project
 
-MVC based <br/>
-Solution built on top of Sitecore 9 <br/>
-Framework: Helix <br/>
-Code definition items, content backed by Unicorn <br/>
+### Features:
+- MVC based 
+- Solution built on top of Sitecore 9 
+- Framework: Helix 
+- Code definition items, content backed by Unicorn 
