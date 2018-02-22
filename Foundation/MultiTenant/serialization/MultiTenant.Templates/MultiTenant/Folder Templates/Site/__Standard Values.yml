@@ -1,0 +1,18 @@
+﻿---
+ID: "cb26d1a2-79b6-4614-b454-a65364a2a95f"
+Parent: "397d26d0-452d-491a-bb3b-8a7dc1142108"
+Template: "397d26d0-452d-491a-bb3b-8a7dc1142108"
+Path: /sitecore/templates/Foundation/MultiTenant/Folder Templates/Site/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180220T082859Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

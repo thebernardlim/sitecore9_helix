@@ -1,0 +1,17 @@
+﻿---
+ID: "9f4dd796-6ac6-4502-a4ac-d91be32c6d30"
+Parent: "9ec678f2-6867-4cc1-9371-4e3ae762d1c5"
+Template: "4423f892-92f9-4ae8-85de-4f3550d122b0"
+Path: /sitecore/content/Home/All Sites/Main Site/Example/Home/Personal Blog
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180221T040248Z
+    - ID: "d3b8b63d-52f7-4bec-992e-fea062d4224e"
+      Hint: Title
+      Value: Personal Blog

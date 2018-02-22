@@ -1,0 +1,37 @@
+﻿---
+ID: "2ff89921-daf1-42cb-b9c0-ffa016b27cf4"
+Parent: "3db438a5-7214-4486-9e21-effc15d61ae1"
+Template: "3db438a5-7214-4486-9e21-effc15d61ae1"
+Path: /sitecore/templates/Project/Example/Page Type Templates/Home/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{4423F892-92F9-4AE8-85DE-4F3550D122B0}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4ED609B6-1D27-448D-9B0A-2047C9BA0162}">
+        <r
+          id="{66B43D1B-56FC-4361-9708-2B093215D235}"
+          ph="Page.Grid"
+          uid="{11D1FDE4-DE2C-47D1-B9A7-FD3F1F70CCB6}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180221T034053Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

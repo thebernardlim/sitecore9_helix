@@ -1,0 +1,27 @@
+﻿---
+ID: "cd682000-45ed-40c8-840e-29f937cba5f7"
+Parent: "9f4dd796-6ac6-4502-a4ac-d91be32c6d30"
+Template: "38ac9e8b-4853-4fc3-ab18-b1b987d51f06"
+Path: "/sitecore/content/Home/All Sites/Main Site/Example/Home/Personal Blog/this-is-a-test-article"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: This is a Test Article
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d88bcc5-8de6-4b13-b597-135e38f64a95"
+      Hint: ArticleBody
+      Value: This is the article body
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180221T040259Z
+    - ID: "6f2fcc40-9458-4d0e-b23f-43fb20e89c9f"
+      Hint: ArticleTitle
+      Value: Test Article
+    - ID: "941013e9-9d51-4de7-b3ca-57381ebf2e23"
+      Hint: ArticleSummary
+      Value: This is a test article 

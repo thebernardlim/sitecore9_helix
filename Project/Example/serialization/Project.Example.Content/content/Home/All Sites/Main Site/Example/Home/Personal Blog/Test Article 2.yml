@@ -1,0 +1,17 @@
+﻿---
+ID: "8ed09792-1bfd-4177-a3f3-92a968d36641"
+Parent: "9f4dd796-6ac6-4502-a4ac-d91be32c6d30"
+Template: "38ac9e8b-4853-4fc3-ab18-b1b987d51f06"
+Path: /sitecore/content/Home/All Sites/Main Site/Example/Home/Personal Blog/Test Article 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180222T073303Z
+    - ID: "6f2fcc40-9458-4d0e-b23f-43fb20e89c9f"
+      Hint: ArticleTitle
+      Value: Test Article 2

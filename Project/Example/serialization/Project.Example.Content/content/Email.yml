@@ -1,0 +1,31 @@
+﻿---
+ID: "f0980e50-e758-47a5-aaa5-67fa5140ee9e"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "cf9c8a2a-2794-4fea-980a-ef8426f3d6c3"
+Path: /sitecore/content/Email
+DB: master
+BranchID: "f8fae92a-4f10-470c-ad5c-7ed9e6b636af"
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\EXM Users|pd|^*|+item:read|pe|^*|+item:read|ar|sitecore\EXM Advanced Users|pd|+item:delete|+item:admin|+item:create|+item:rename|^*|+item:read|+item:write|pe|+item:delete|+item:admin|+item:create|+item:rename|^*|+item:read|+item:write|
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DB7A8703-C5AE-41FF-8B23-264195634B9E}"
+- ID: "ff64b61e-e68d-4be1-bfd1-aae311f4aca1"
+  Hint: Embed Images
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Email
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180214T083430Z
