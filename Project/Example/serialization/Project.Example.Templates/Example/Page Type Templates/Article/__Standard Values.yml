@@ -4,6 +4,21 @@ Parent: "38ac9e8b-4853-4fc3-ab18-b1b987d51f06"
 Template: "38ac9e8b-4853-4fc3-ab18-b1b987d51f06"
 Path: /sitecore/templates/Project/Example/Page Type Templates/Article/__Standard Values
 DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4ED609B6-1D27-448D-9B0A-2047C9BA0162}">
+        <r
+          id="{FE823A16-D825-4918-BD7E-D80B2DE74BB9}"
+          ph="Page.Grid"
+          uid="{282DA5ED-B4C6-47A8-8161-E7D2F875C410}" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:

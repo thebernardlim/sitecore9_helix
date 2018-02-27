@@ -9,9 +9,15 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "1d88bcc5-8de6-4b13-b597-135e38f64a95"
+      Hint: ArticleBody
+      Value: This is the blog contents
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20180222T073303Z
     - ID: "6f2fcc40-9458-4d0e-b23f-43fb20e89c9f"
       Hint: ArticleTitle
       Value: Test Article 2
+    - ID: "941013e9-9d51-4de7-b3ca-57381ebf2e23"
+      Hint: ArticleSummary
+      Value: Summary of Test Article 2
